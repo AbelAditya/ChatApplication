@@ -1,16 +1,3 @@
-# chat_app
+# Flash Chat
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A flutter project that creates a chat room. I have utilised firebase auth to authenticate users allowing them to register and login. All the messaging data is being stored in firestore database. Multiple users can chat with each other in this app.
